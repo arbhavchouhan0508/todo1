@@ -6,9 +6,7 @@ function App() {
 
   return (
     <div>
-
-
-
+      <div>this is todo app</div>
       <Home />
     </div>
   )
